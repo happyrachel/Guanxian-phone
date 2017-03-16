@@ -1,0 +1,59 @@
+html,body{
+	font-size: 20px;
+	font-family: "微软雅黑","黑体";
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.top{
+	width: 100%;
+	padding-top: 4.95rem;
+	padding-bottom: 1.4rem;
+	background-image: url(../images/txzl-images/bg.jpg);
+	background-size: 100% 100%;
+}
+.top p{
+	font-size: 0.6rem;
+	color:#ffffff;
+	text-align: center;
+}
+.main{
+	width: 100%;
+	padding-left: 0.725rem;
+}
+form{
+	width: 100%;
+}
+.name{
+	width: 100%;
+	height: 1.2rem;/*0.675rem;*/
+	border-bottom: 1px solid #c3c3c3;
+	padding-top: 1.875rem;
+	padding-bottom: 0.525rem;
+}
+label{
+	font-size: 0.7rem;
+	color:#69696a;
+}
+span{
+	color:#d30404;
+	margin-right:0.225rem;
+	margin-left: 0.2rem;
+	font-size: 0.7rem;
+}
+input{
+	border: none;
+	width: 7.675rem;
+}
+.main>input{
+	display: block;
+	margin: 5.5rem auto 1.175rem;
+	text-decoration: none;
+	width: 5.65rem;
+	background-color: #3495e8;
+	font-size: 0.75rem;
+	color: #ffffff;
+	line-height:1.575em;
+	text-align: center;
+}
